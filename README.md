@@ -6,4 +6,4 @@ Batch processing of AxoScope ATF Files into line plots
 * Generate customizable PDF output file
 
 # Usage
-Rscript batchprocessing_atf.R
+$ Rscript batchprocessing_atf.R
