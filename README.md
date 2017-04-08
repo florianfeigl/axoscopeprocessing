@@ -1,5 +1,5 @@
-# axoscopeprocessing
-Processing of AxoScope ATF Files into Plots
+# Axoscope Processing
+Batch processing of AxoScope ATF Files into line plots
 
 # Features
 * Read in atf file directory
