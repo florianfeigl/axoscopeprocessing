@@ -34,7 +34,6 @@ for (i in dir()) {
 # echo and plotting all data
 print("Plotting all Data...")
 
-# setting up plot functions
 pdf(file="ALL_PLOTTED_DATA.pdf")
 par(mfrow=c(p.rows,p.cols))
 for (i in files) {
